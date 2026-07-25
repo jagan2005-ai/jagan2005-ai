@@ -31,9 +31,9 @@
 <!-- 🔧 REPLACE: LinkedIn URL, Portfolio URL, Email -->
 <p>
   <a href="https://github.com/jagan2005-ai"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8A63F7" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=3B82F6" /></a>
-  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-0A0E27?style=for-the-badge&logo=vercel&logoColor=8A63F7" /></a>
-  <a href="mailto:Jaganbisoyi2005@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=3B82F6" /></a>
+  <a href="https://www.linkedin.com/in/nirmala-nanda-bisoyi"><img src="https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=3B82F6" /></a>
+  <a href="https://jagan2005-ai.github.io/Professional-portfolio/t"><img src="https://img.shields.io/badge/Portfolio-0A0E27?style=for-the-badge&logo=vercel&logoColor=8A63F7" /></a>
+  <a href="mailto:jaganbisoyi2005@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=3B82F6" /></a>
 </p>
 
 <!-- VISITOR COUNTER -->
@@ -121,7 +121,7 @@ A production-ready, Airbnb-style rental marketplace built for the Berhampur mark
 ✔ UPI Payment &nbsp;&nbsp; ✔ Responsive Design
 
 <!-- 🔧 REPLACE LINKS BELOW -->
-<a href="https://roomify-06mf.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-8A63F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://roomify-06mf.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-8A63F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/jagan2005-ai/Roomify"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
@@ -139,7 +139,7 @@ A responsive weather application integrating the OpenWeather API with asynchrono
 ✔ Modular JS Codebase
 
 <!-- 🔧 REPLACE LINKS BELOW -->
-<a href="https://jagan2005-ai.github.io/Whether-App"><img src="https://img.shields.io/badge/Live%20Demo-8A63F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://jagan2005-ai.github.io/Whether-App/"><img src="https://img.shields.io/badge/Live%20Demo-8A63F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/jagan2005-ai/Whether-App"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
@@ -191,9 +191,9 @@ A responsive weather application integrating the OpenWeather API with asynchrono
 <!-- 🔧 REPLACE: LinkedIn URL, Portfolio URL, Email -->
 <p align="center">
   <a href="https://github.com/jagan2005-ai"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8A63F7" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=3B82F6" /></a>
-  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-0A0E27?style=for-the-badge&logo=googlechrome&logoColor=8A63F7" /></a>
-  <a href="mailto:Jaganbisoyi2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=3B82F6" /></a>
+  <a href="https://www.linkedin.com/in/nirmala-nanda-bisoyi"><img src="https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=3B82F6" /></a>
+  <a href="https://jagan2005-ai.github.io/Professional-portfolio/t"><img src="https://img.shields.io/badge/Portfolio-0A0E27?style=for-the-badge&logo=googlechrome&logoColor=8A63F7" /></a>
+  <a href="mailto:jaganbisoyi2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=3B82F6" /></a>
 </p>
 
 <br/>
