@@ -75,29 +75,54 @@ class Developer {
 
 <div align="center">
 
-**Languages & Core**
+<strong>Languages & Core</strong><br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" />
+<br/><br/>
 
-**Frontend**
+<strong>Frontend</strong><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/EJS-8A63F7?style=for-the-badge&logo=ejs&logoColor=white" />
 
-<img src="https://skillicons.dev/icons?i=bootstrap,react&theme=dark" />
+<br/><br/>
 
-**Backend & Database**
+<strong>Backend</strong><br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-8A63F7?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT%20%26%20OTP-0A0E27?style=for-the-badge&logo=jsonwebtokens&logoColor=8A63F7" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+<br/><br/>
 
-**Tools & Platforms**
+<strong>Database</strong><br/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,cloudinary,render&theme=dark" />
+<br/><br/>
+
+<strong>Tools & Platforms</strong><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-AI-8A63F7?style=for-the-badge&logo=anthropic&logoColor=white" />
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/REST%20API-8A63F7?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVC%20Architecture-3B82F6?style=for-the-badge&logo=codereview&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT%20%26%20OTP%20Auth-0A0E27?style=for-the-badge&logo=jsonwebtokens&logoColor=8A63F7" />
-</p>
+<br/>
 
 <br/>
 
@@ -205,7 +230,7 @@ A responsive weather application integrating the OpenWeather API with asynchrono
 <!-- ================= GOALS 2026 ================= -->
 ## 🎯 Goals 2026
 
-- ✔ Growing my career in software development
+- ✔ Crack a Product-Based Company
 - ✔ Master Spring Boot
 - ✔ Learn React in depth
 - ✔ Build 5 Production-Grade Projects
