@@ -205,7 +205,7 @@ A responsive weather application integrating the OpenWeather API with asynchrono
 <!-- ================= GOALS 2026 ================= -->
 ## 🎯 Goals 2026
 
-- ✔ Crack a Product-Based Company
+- ✔ Growing my career in software development
 - ✔ Master Spring Boot
 - ✔ Learn React in depth
 - ✔ Build 5 Production-Grade Projects
