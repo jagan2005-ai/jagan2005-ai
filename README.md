@@ -32,7 +32,7 @@
 <p>
   <a href="https://github.com/jagan2005-ai"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8A63F7" /></a>
   <a href="https://www.linkedin.com/in/nirmala-nanda-bisoyi"><img src="https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=3B82F6" /></a>
-  <a href="https://jagan2005-ai.github.io/Professional-portfolio/t"><img src="https://img.shields.io/badge/Portfolio-0A0E27?style=for-the-badge&logo=vercel&logoColor=8A63F7" /></a>
+  <a href="https://jagan2005-ai.github.io/Professional-portfolio/"><img src="https://img.shields.io/badge/Portfolio-0A0E27?style=for-the-badge&logo=vercel&logoColor=8A63F7" /></a>
   <a href="mailto:jaganbisoyi2005@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=3B82F6" /></a>
 </p>
 
@@ -175,16 +175,6 @@ A responsive weather application integrating the OpenWeather API with asynchrono
 
 <br/>
 
-<!-- ================= TROPHIES ================= -->
-<div align="center">
-
-### 🏆 Trophy Room
-<img src="https://github-profile-trophy.vercel.app/?username=jagan2005-ai&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
-<br/>
-
 <!-- ================= CODING PROFILES ================= -->
 ## 🌐 Connect With Me
 
@@ -254,6 +244,6 @@ A responsive weather application integrating the OpenWeather API with asynchrono
 
 ⭐ **If you like my work, don't forget to star my repositories!**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" />
+<img width="100%" src="https://img.shields.io/badge/Thanks%20for%20visiting-%F0%9F%91%8D%20Open%20to%20collaborate-blueviolet?style=for-the-badge" alt="Footer banner" />
 
 </div>
